@@ -1,10 +1,1 @@
-# Overview
-Example code for Cortex V2 & V3 & V4. So far we have the following languages:
-* C++ (with Qt library https://www.qt.io)
-* C#
-* NodeJS
-* Python
-* Unity
-
-# API Documentation
-For Cortex V2 / V3 / V4 API documentations please check out: https://emotiv.gitbook.io/cortex-api/
+Run goPet which is the final version, version history is GoBrain and study_tamagotchufinal.
